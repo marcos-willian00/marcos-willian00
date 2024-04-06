@@ -1,10 +1,10 @@
-### Olá! Eu sou o Marcos Willian 🖖🏽
+## Olá! Eu sou o Marcos Willian 🖖🏽
 
 <div align="left"> 
-<h4> Olá, sou Marcos Willian, um desenvolvedor apaixonado por programação e tecnologia. Estou cursando o bacharelado em Sistemas de Informação pelo IFCE, onde estou aprendendo sobre diferentes linguagens, ferramentas e metodologias de desenvolvimento de software. Meu objetivo é continuar aprendendo e contribuindo para o avanço da tecnologia. </h4>
+<h3> Olá, sou Marcos Willian, um desenvolvedor apaixonado por programação e tecnologia. Estou cursando o bacharelado em Sistemas de Informação pelo IFCE, onde estou aprendendo sobre diferentes linguagens, ferramentas e metodologias de desenvolvimento de software. Meu objetivo é continuar aprendendo e contribuindo para o avanço da tecnologia. </h3>
 </div>
 
-### Acesse minhas redes!
+## Acesse minhas redes! 🔗
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/to.willian/)
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-willian-a1144a268/)
@@ -12,7 +12,7 @@
 ![Marcos GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=marcos-willian00&show_icons=true&theme=dark#gh-dark-mode-only)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-willian00&layout=donut)
 
-## Tecnologias
+## Tecnologias 🧑🏽‍💻
 
 <div style="display: inline_block">
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
