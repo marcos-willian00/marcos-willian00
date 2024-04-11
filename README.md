@@ -10,7 +10,7 @@
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-willian-a1144a268/)
 
 ![Marcos GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=marcos-willian00&show_icons=true&theme=dark#gh-dark-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-willian00&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-willian00&layout=donut&theme=dark#gh-dark-mode-only)
 
 ## Tecnologias 🧑🏽‍💻
 
