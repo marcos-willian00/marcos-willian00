@@ -1,4 +1,4 @@
-## Olá! Eu sou o Marcos Willian 🖖🏽
+## Hi, I'm Marcos Willian 🖖🏽
 
 <div align="left"> 
 <h3> Hi, I'm Marcos Willian, a brasilian developer passionate about programming and technology. I'm studying for a bachelor's degree in Information Systems at IFCE, where I'm learning about different languages, tools and software development methodologies. My goal is to continue learning and contributing to the advancement of technology. </h3>
