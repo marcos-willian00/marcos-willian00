@@ -1,15 +1,15 @@
 ![](https://komarev.com/ghpvc/?username=marcos-willian00&color=006bed)
 
-## Sobre mim
+## About me
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Sistemas de Informação no IFCE.
-- 💼 Em busca de novos desafios.
-- 🌱 Aprendendo mais sobre Node.js, TypeScript e o desenvolvimento back-end.
+- 🤔 Exploring new technologies and developing software solutions.
+- 🎓 Studying Information Systems at IFCE.
+- 💼 Looking for new challenges.
+- 🌱 Learning more about Node.js, TypeScript and back-end development.
 
-## Minhas Skills
+## My Skills
 
-**Aplicações e dados**
+**Applications and data**
 
 ![NodeJS](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -20,7 +20,7 @@
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-**Utilidades**
+**Utilities**
 
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
@@ -31,7 +31,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
-**Ferramentas de desenvolvimento**
+**Development Tools**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
@@ -39,11 +39,11 @@
 
 <br/>
 
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
+<a href="https://github.com/marcos-willian00" title="Marcos Profile">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcos-willian00&show_icons=true&theme=dark#gh-dark-mode-only" />
 </a>
 
-## Onde me encontrar
+## Where to find me
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-willian-a1144a268/)](https://www.linkedin.com/in/marcos-willian-a1144a268/)
 [![Gmail Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcoswillian983@gmail.com)](mailto:marcoswillian983@gmail.com)
