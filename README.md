@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=marcos-willian00&color=006bed)
-
 ## About me
 
 - 🤔 Exploring new technologies and developing software solutions.
@@ -50,3 +48,5 @@
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-willian-a1144a268/)](https://www.linkedin.com/in/marcos-willian-a1144a268/)
 [![Gmail Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcoswillian983@gmail.com)](mailto:marcoswillian983@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/marcos-willian00?label=follow&style=social)](https://github.com/marcos-willian00)
+
+![](https://komarev.com/ghpvc/?username=marcos-willian00&color=006bed)
