@@ -39,9 +39,11 @@
 
 <br/>
 
+<div align="center">
 <a href="https://github.com/marcos-willian00" title="Marcos Profile">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcos-willian00&show_icons=true&theme=dark#gh-dark-mode-only" />
 </a>
+</div>
 
 ## Where to find me
 
