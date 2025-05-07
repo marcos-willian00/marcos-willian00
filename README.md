@@ -1,11 +1,13 @@
 ![](https://komarev.com/ghpvc/?username=marcos-willian00&color=006bed)
 
+## 👋🏽 Hi, I'm Marcos Willian — Backend Developer
+
 ## About me
 
 - 🤔 Exploring new technologies and developing software solutions.
 - 🎓 Studying Information Systems at IFCE.
 - 💼 Looking for new challenges.
-- 🌱 Learning more about Node.js, TypeScript and back-end development.
+- 🌱 Learning more about Node.js, TypeScript and backend development.
 
 ## My Skills
 
